@@ -1,0 +1,11 @@
+body{
+    height: 100vh;
+    background: linear-gradient(to bottom, rgb(213, 224, 240), rgb(166, 187, 221) 50%);
+}
+.chosen_box{
+    border: 0.2em;
+    border-radius: 50%;
+}
+.row{
+    text-align: center;
+}
