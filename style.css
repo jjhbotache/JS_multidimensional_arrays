@@ -2,6 +2,13 @@ body{
     height: 100vh;
     background: linear-gradient(to bottom, rgb(213, 224, 240), rgb(166, 187, 221) 50%);
 }
+.box{
+    margin: 0.2em;
+    border: solid 1px black;
+    box-shadow: 0px 0px 2px 2px black;
+    height: 2em;
+    width: 2em;
+}
 .chosen_box{
     border: 0.2em;
     border-radius: 50%;
